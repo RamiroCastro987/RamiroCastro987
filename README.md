@@ -1,9 +1,13 @@
-### Olá, eu sou o Ramiro Castro! 👋
+### 🖥️ Ramiro Castro
+
+**`Analista BI Sênior`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiroglcastro/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamiroCastro987)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramiro.gl.castro?igsh=MXE4NWh1cTBxZTF4dQ==)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+
+## Estatísticas
 
 ![RamiroCastro987 GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiroCastro987&show_icons=true&theme=highcontrast)
 
